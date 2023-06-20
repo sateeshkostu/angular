@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "fullname": "test",
+      "email": "test@gmail.com",
+      "mobile": 9014797351,
+      "password": "9876",
+      "id": 3
+    },
+    {
+      "fullname": "sateesh",
+      "email": "satish@gmail.com",
+      "mobile": 987654321,
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "login": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
